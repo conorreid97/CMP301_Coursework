@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\conor\Github\CMP_301_Coursework\Coursework\lib\Debug\depth_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\conor\Github\CMP_301_Coursework\Coursework\lib\Debug\depth_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\conor\Github\CMP_301_Coursework\Coursework\lib\Debug\shadow_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\conor\Github\CMP_301_Coursework\Coursework\lib\Debug\shadow_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\conor\Github\CMP_301_Coursework\Coursework\lib\Debug\texture_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\conor\Github\CMP_301_Coursework\Coursework\lib\Debug\texture_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

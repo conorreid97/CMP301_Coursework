@@ -1,0 +1,42 @@
+﻿  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\lib\Debug\depth_ps.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\lib\Debug\depth_vs.cso
+D:\conor\Github\CMP_301_Coursework\Coursework\DXFramework\shadow_ps.hlsl(37,5): warning X4000: use of potentially uninitialized variable (hasDepthData)
+D:\conor\Github\CMP_301_Coursework\Coursework\DXFramework\shadow_ps.hlsl(53,5): warning X4000: use of potentially uninitialized variable (isInShadow)
+  
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\lib\Debug\shadow_ps.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\lib\Debug\shadow_vs.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\lib\Debug\texture_ps.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\lib\Debug\texture_vs.cso
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  AModel.cpp
+  BaseApplication.cpp
+  BaseMesh.cpp
+  BaseShader.cpp
+  Camera.cpp
+  CubeMesh.cpp
+  D3D.cpp
+  FPCamera.cpp
+  Input.cpp
+  Light.cpp
+  Model.cpp
+  OrthoMesh.cpp
+  PlaneMesh.cpp
+  PointMesh.cpp
+  QuadMesh.cpp
+  Generating Code...
+  Compiling...
+  RenderTexture.cpp
+  ShadowMap.cpp
+  SphereMesh.cpp
+  System.cpp
+  TessellationMesh.cpp
+  TextureManager.cpp
+  Timer.cpp
+  TokenStream.cpp
+  TriangleMesh.cpp
+  Generating Code...
+  DXFramework.vcxproj -> D:\conor\Github\CMP_301_Coursework\Coursework\lib\Debug\DXFramework.lib

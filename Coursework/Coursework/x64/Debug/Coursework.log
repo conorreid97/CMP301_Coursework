@@ -1,0 +1,79 @@
+﻿  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\depth_ps.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\depth_vs.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\horizontalED_ps.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\horizontalED_vs.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\light_ps.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\light_vs.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainDepth_ps.cso
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainDepth_vs.hlsl(55,11-76): warning X3206: implicit truncation of vector type
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainDepth_vs.hlsl(63,5-58): warning X3206: implicit truncation of vector type
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainDepth_vs.hlsl(87,21-44): warning X4008: floating point division by zero
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainDepth_vs.hlsl(87,21-44): warning X4008: floating point division by zero
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainDepth_vs.hlsl(87,21-44): warning X4008: floating point division by zero
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainDepth_vs.hlsl(87,21-44): warning X4008: floating point division by zero
+  
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainDepth_vs.cso
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainShadow_ps.hlsl(37,5): warning X4000: use of potentially uninitialized variable (hasDepthData)
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainShadow_ps.hlsl(53,5): warning X4000: use of potentially uninitialized variable (isInShadow)
+  
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainShadow_ps.cso
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainShadow_vs.hlsl(57,11-76): warning X3206: implicit truncation of vector type
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainShadow_vs.hlsl(65,5-58): warning X3206: implicit truncation of vector type
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainShadow_vs.hlsl(89,21-44): warning X4008: floating point division by zero
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainShadow_vs.hlsl(89,21-44): warning X4008: floating point division by zero
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainShadow_vs.hlsl(89,21-44): warning X4008: floating point division by zero
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainShadow_vs.hlsl(89,21-44): warning X4008: floating point division by zero
+  
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountainShadow_vs.cso
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountain_ps.hlsl(60,5-58): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountain_ps.cso
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountain_vs.hlsl(72,5-58): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\mountain_vs.cso
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\shadow_ps.hlsl(128,5): warning X4000: use of potentially uninitialized variable (hasDepthData)
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\shadow_ps.hlsl(180,9): warning X4000: use of potentially uninitialized variable (isInShadowBoth)
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\shadow_ps.hlsl(181,5): warning X4000: use of potentially uninitialized variable (isInShadowBoth)
+  
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\shadow_ps.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\shadow_vs.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\texture_ps.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\texture_vs.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\verticalED_ps.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\verticalED_vs.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\waterDepth_ps.cso
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\waterDepth_vs.hlsl(56,11-76): warning X3206: implicit truncation of vector type
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\waterDepth_vs.hlsl(64,5-58): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\waterDepth_vs.cso
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\waterShader_vs.hlsl(74,5-58): warning X3206: implicit truncation of vector type
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\waterShader_vs.hlsl(78,15-32): warning X3578: Output value 'main' is not completely initialized
+  
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\waterShader_vs.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\waterShader_ps.cso
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\waterShadow_ps.hlsl(37,5): warning X4000: use of potentially uninitialized variable (hasDepthData)
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\waterShadow_ps.hlsl(53,5): warning X4000: use of potentially uninitialized variable (isInShadow)
+  
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\waterShadow_ps.cso
+  compilation object save succeeded; see D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\waterShadow_vs.cso
+  App1.cpp
+  DepthShader.cpp
+  HorizontalEDShader.cpp
+  Lights.cpp
+D:\conor\Github\CMP_301_Coursework\Coursework\Coursework\Lights.cpp(28,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  LightShader.cpp
+  Main.cpp
+  MountainDepthShader.cpp
+  MountainShader.cpp
+  MountainShadowShader.cpp
+  ShadowShader.cpp
+  TextureShader.cpp
+  VerticalEDShader.cpp
+  waterDepthShader.cpp
+  WaterShader.cpp
+  WaterShadowShader.cpp
+  Generating Code...
+DXFramework.lib(DDSTextureLoader.obj) : warning LNK4099: PDB '' was not found with 'DXFramework.lib(DDSTextureLoader.obj)' or at ''; linking object as if no debug info
+DXFramework.lib(WICTextureLoader.obj) : warning LNK4099: PDB '' was not found with 'DXFramework.lib(WICTextureLoader.obj)' or at ''; linking object as if no debug info
+DXFramework.lib(pch.obj) : warning LNK4099: PDB '' was not found with 'DXFramework.lib(pch.obj)' or at ''; linking object as if no debug info
+  Coursework.vcxproj -> D:\conor\Github\CMP_301_Coursework\Coursework\x64\Debug\Coursework.exe
